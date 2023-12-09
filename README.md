@@ -2,6 +2,8 @@ Tenho interesse nas linguagens Phyton, Java, HTML, C (C++, C#), além de anális
 Conhecimentos: Curso Introdução à Programação, Proz Educação (300 horas)
 Curso Fundamentos do Power BI, Fundação Bradesco (37 horas)
 Curso Linguagem de Programação JAVA (21 horas)
+Curso Banco de Dados (38 horas)
+Curso Linguagem de Programação Python (53 horas)
 Curso Cisco, Cybersecurity Essentials (22 horas)
 Curso Cisco, Networking Basics (22 horas)
 Email: mariaeduardalp127@gmail.com
